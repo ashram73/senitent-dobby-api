@@ -4,7 +4,7 @@ The script creates an interactive chat session with Dobby-70B, a language model 
 
 Prerequisites:
 -
-To set up and run an interactive chat session with the Dobby-70B language model from Sentient using the Fireworks API in the shell, follow the steps below. This guide assumes you are using a command-line interface (CLI) environment like a terminal and have basic knowledge of shell commands.
+To set up and run an interactive, chat session with the Dobby-70B language model from Sentient using the Fireworks API in the shell, follow the steps below. This guide assumes you are using a command-line interface (CLI) environment like a terminal and have basic knowledge of shell commands.
 
 1-API Key: Ensure you have a valid API key from Fireworks.
 
